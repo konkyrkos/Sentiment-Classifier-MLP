@@ -1,5 +1,5 @@
 # Sentiment-Classifier-MLP
-This repository provides my solution for the 2nd Assignment for the course of Text Analytics for the MSc in Data Science at Athens University of Economics and Business.
+This repository provides my solution for the 3rd Assignment for the course of Text Analytics for the MSc in Data Science at Athens University of Economics and Business.
 
 Practically it is the natural development of the Sentiment Classifier with Classic methods project.
 The change from last time is that this project uses Multi Layer Perceptrons (MLPs) implemented in Keras
